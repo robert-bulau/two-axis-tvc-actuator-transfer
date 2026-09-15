@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or cite this work, please cite as below."
+title: "Load-Dependent Actuator Bandwidth Limits Calibration Transfer in Two-Axis Thrust-Vector-Controlled Rocket Analogues"
+authors:
+  - family-names: Bulau
+    given-names: Robert
+    affiliation: "Colegiul Național \"Mihai Viteazul\", Ploiești, Romania"
+    email: robertbulau8@gmail.com
+date-released: 2026-09-15
+version: "2.0"
+repository-code: "https://github.com/robert-bulau/two-axis-tvc-actuator-transfer"
+license: MIT
+type: software
+keywords:
+  - thrust vector control
+  - actuator identification
+  - cascaded control
+  - model transfer
+  - hardware-in-the-loop
